@@ -18,4 +18,7 @@ I am a problem-solver enthusiast. I love coding and finance.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Why+do+programmers+prefer+dark+mode?...;Because+light+attracts+bugs!😊)](https://git.io/typing-svg)
 
+<img height="120" alt="Why do Programmers prefer Dark Mode? .... Because light attracts bugs;" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
 
