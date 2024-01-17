@@ -20,6 +20,7 @@ I am a problem-solver enthusiast. I love coding and finance.
 **I am funny! :)**
 
   Why do programmers prefer dark mode?
+  <br>
   Because light attracts bugs!
 
 ---
