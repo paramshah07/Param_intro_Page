@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hey!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hello-World!)](https://git.io/typing-svg)
 
 <a href="#"><img width="20%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
-Concentration in computer science and math with interests in DeFi and AI. Currently SWE @ Google, and researching various ML approaches to address security issues in DeFi.
-  
+I am a problem-solver enthusiast. I love coding and finance. 
+
 <!-- # Experience:
 <div>
   <a href='' target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"/></a>
