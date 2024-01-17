@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hello World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=39&multiline=true&width=700&lines=Hello+World!)](https://git.io/typing-svg)
 
 <a href="#"><img width="20%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
