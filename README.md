@@ -15,11 +15,7 @@ I write code so my AI doesn’t have to fix my bugs… sometimes.
 
 
 ---
-**I am funny! :)**
-
-  Why do programmers prefer dark mode?
-  <br>
-  Because light attracts bugs!
+I attempted a self-optimizing algorithm, but it ended up scheduling performance reviews for me. Now every compile is followed by, “Have you considered optimizing your coffee intake?”
 
 ---
 
