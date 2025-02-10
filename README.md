@@ -2,7 +2,7 @@
 
 <a href="#"><img width="20%" height="auto" align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" /></a>
 
-I am a problem-solver enthusiast. I love coding and finance. 
+I write code so my AI doesn’t have to fix my bugs… sometimes. 
 
 <br>
 <p align="center">
